@@ -20,6 +20,6 @@ python3 government.py
 
 ## Running the module
 ```bash
-cd my_module
+cd test_module
 python3 example.py
 ```
