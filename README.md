@@ -7,7 +7,7 @@ Feel free to play around with it and test out other things you're interested in 
 
 ## Cloning the repo
 ```bash
-git clone https://github.com/BMI203-2033/sample_code_lecture1
+git clone https://github.com/BMI203-2022/sample_code_lecture1
 cd sample_code_lecture1
 ```
 
