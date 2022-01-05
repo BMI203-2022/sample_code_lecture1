@@ -15,7 +15,8 @@ cd sample_code_lecture1
 ```bash
 python3 animals.py
 python3 example_functions.py
-python3 government.py
+python3 memoizer.py
+python3 nonzero_cost_abstraction.py
 ```
 
 ## Running the module
